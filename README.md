@@ -1,10 +1,10 @@
 # Clustering-Communities-For-Environmental-Justice-In-Canada
 
-### Project Overview:
+### Project Overview
 
 This repository houses the "Clustering Communities for Environmental Justice in Canada" project, designed to identify and analyze clusters of communities facing environmental injustice. Utilizing data from the National Pollutant Release Inventory (NPRI) and the Canadian Index of Multiple Deprivation (CIMD), the project employs k-means clustering to highlight the relationships between industrial pollutants and community demographics.
 
-### Objectives:
+### Objectives
 
 * Integrate Environmental and Socio-Economic Data: Combining NPRI environmental data with CIMD socio-economic metrics to assess the impact of industrial activities on vulnerable communities.
 * Identify and Analyze Community Clusters: Using k-means clustering to group communities by similar environmental exposure and demographic characteristics.
@@ -35,7 +35,7 @@ This repository houses the "Clustering Communities for Environmental Justice in 
 * R: For additional data manipulation and advanced visualizations.
 * QGIS Software: To map and analyze the spatial distribution of data.
 
-## Results
+## Results:
 
 The analysis successfully delineated five distinct clusters, each characterized by specific industrial profiles and unique combinations of environmental and social factors:
 * Cluster 0: Characterized by high emissions of Nitrogen Oxides and Carbon Monoxide from waste treatment and oil and gas industries, primarily found in Northern British Columbia and major urban centers.
